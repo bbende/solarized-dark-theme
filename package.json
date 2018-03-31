@@ -3,10 +3,10 @@
   "name": "Solarized Dark (bbende)",
   "description": "A modified solarized dark theme.",
   "content_type": "SN|Theme",
-  "version": "1.0.115",
+  "version": "1.0.116",
   "main": "dist/dist.css",
   "url": "https://raw.githubusercontent.com/bbende/solarized-dark-theme/master/package.json",
-  "download_url": "https://github.com/bbende/solarized-dark-theme/archive/1.0.114.zip",
+  "download_url": "https://github.com/bbende/solarized-dark-theme/archive/1.0.116.zip",
   "latest_url": "https://raw.githubusercontent.com/bbende/solarized-dark-theme/master/package.json",
   "marketing_url": "https://github.com/bbende/solarized-dark-theme",
   "devDependencies": {
